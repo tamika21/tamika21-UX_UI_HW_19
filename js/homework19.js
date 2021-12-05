@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<script scr="js/index.js"></script>
-<console class="log"></console>
 <html>
     <head>
         <meta charset="utf-8">
@@ -28,13 +26,6 @@
             <p>I am a UX/UI Designer <br> & Web Developer</p>
             <button class="hire-btn">Hire me</button>
             <button class="down-cv">Download CV</button>
-            <script>
-                $("li").hover(
-                    funtion(){
-                        
-                    }
-                )
-            </script>
             </div>
         <!--model--------------------------------->
         </section>
@@ -62,10 +53,6 @@
             <p>My Work</p>
             <p>Examples</p>
         
-        
-        var myP = document.getElementByID("myP");
-
-        myP.addEventListener("click,function(){ myDiv.style.background = "gray"});
         </div>
             <!--box------------------------------->
         <div class="box-container">
@@ -78,7 +65,6 @@
         <!--3---------------------->
         <div class="box-3"></div>
         <img src="img/#1.png">
-    
     
         </div>
         </div>
